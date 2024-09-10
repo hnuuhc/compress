@@ -4,7 +4,6 @@ import net.lingala.zip4j.ZipFile;
 import net.lingala.zip4j.model.ZipParameters;
 import net.lingala.zip4j.model.enums.*;
 import org.haic.often.Judge;
-import org.haic.often.exception.ZipException;
 import org.haic.often.util.FileUtil;
 import org.jetbrains.annotations.NotNull;
 
